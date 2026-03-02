@@ -1,7 +1,3 @@
-
-## Archivo README.md
-
-
 # 🧬 DNA Sequence Analyzer
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -76,4 +72,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```
+
 
