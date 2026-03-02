@@ -44,7 +44,7 @@ No requiere instalación de dependencias, entornos Conda ni servidores backend. 
 
 ## 👨‍💻 Autor
 
-**Dani Arenas**  
+**Daniel Arenas Gonzalez ORCID:0000-0003-2663-7416**  
 *Bioinformatics Scientist *  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/daniel-arenas-gonz%C3%A1lez-a6318b27a/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/dani-arenas1)
@@ -76,3 +76,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```
+
