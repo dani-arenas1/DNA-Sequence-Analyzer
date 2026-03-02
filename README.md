@@ -45,7 +45,7 @@ No requiere instalación de dependencias, entornos Conda ni servidores backend. 
 ## 👨‍💻 Autor
 
 **Dani Arenas**  
-*Bioinformatics Scientistr*  
+*Bioinformatics Scientist *  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/daniel-arenas-gonz%C3%A1lez-a6318b27a/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/dani-arenas1)
 ```
@@ -74,4 +74,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 ```
